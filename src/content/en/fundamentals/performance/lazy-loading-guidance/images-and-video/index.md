@@ -52,8 +52,8 @@ the viewport.
 
 <figure>
   <img srcset="images/lazy-loading-example-2x.jpg 2x,
-images/images/lazy-loading-example-1x.jpg 1x"
-src="images/images/lazy-loading-example-1x.jpg" alt="A screenshot of the website
+images/lazy-loading-example-1x.jpg 1x"
+src="images/lazy-loading-example-1x.jpg" alt="A screenshot of the website
 Medium in the browsing, demonstrating lazy loading in action. The blurry
 placeholder is on the left, and the loaded resource is on the right.">
   <figcaption><b>Figure 2</b>. An example of image lazy loading in action. A
