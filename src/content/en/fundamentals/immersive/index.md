@@ -1,12 +1,12 @@
 project_path: /web/fundamentals/_project.yaml
 book_path: /web/fundamentals/_book.yaml
-description: Build a 'hellow world' app to get you feet wet with the WebXR Device API.
+description: Get you feet wet with the WebXR Device API.
 
-{# wf_updated_on: 2018-09-11 #}
+{# wf_updated_on: 2018-09-13 #}
 {# wf_published_on: 2018-11-13 #}
 {# wf_blink_components: Blink>WebVR #}
 
-# Welcome to the immersive web {: .page-title }
+# Try the immersive web {: .page-title }
 
 The immersive web encompasses a spectrum of experiences from complete reality to completely immersive, with various levels of augmented reality in between. To accomplish this, all flavors of the immersive web use the [WebXR Device API](https://immersive-web.github.io/webxr-reference/webxr-device-api/) to control application structure and graphics code to provide content within that structure. This guide will teach you application structure.
 

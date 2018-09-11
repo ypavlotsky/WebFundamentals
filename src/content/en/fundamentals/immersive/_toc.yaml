@@ -1,0 +1,8 @@
+toc:
+  - title: Immersive web
+    style: accordion
+    status: beta
+    section:
+    - title: Try the immersive web
+      path: /web/fundamentals/immersive/
+    - title: Run a render loop
